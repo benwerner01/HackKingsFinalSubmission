@@ -2,7 +2,9 @@
 
 Booking flights made easy, in a familiar chat interface with a fake airline representative.
 
-To start the project: 
+The react web application is located to in the `flightBookingChat` folder.
+
+To start the app: 
 
 `npm install`
 `npm start`
